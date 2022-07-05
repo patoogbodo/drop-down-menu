@@ -31,3 +31,9 @@ body{
   text-decoration: none;
   color: white;
 }
+
+.action, .menu-bar ul li:hover{
+  
+  background: black;
+  border-radius: 3px;
+}
